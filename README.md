@@ -9,7 +9,7 @@ The dataset is designed to help journalists collect evidence to do comparative n
 3.	To emphasize the homeless counts are the point-in-time counts, this dataset adds a field to record the date that the point-in-time counting happened. This would enable journalists to have more context about what these homeless counts exactly refer to and how to properly compare these counts considering other contextual factors. 
 4.	To help journalists understand a larger picture instead of just one point-in-time picture, this dataset also extracts the total numbers of the chronically homes households and the chronically homeless persons from the original three CoC reports.
 5.	To help journalists compare the ratio of the homeless population among these three communities, this data extracts the data about the total population counts of all the three communities from the QuickFacts data, which is freely available to the public on the census.gov website.
-6.	The file naming convention is: year_datasettype. The year indicates the year in which the point-in-time count occurred. The dataset type indicates whether the dataset is the raw data or the normalized data.
+6.	The file naming convention is: year_datasettype. The year indicates the year in which the point-in-time count occurred. The dataset type indicates whether the dataset is the raw data ("raw") or the normalized data ("normal").
 
 ## Data Dictionary
 |Header1 |Header2  | Header3  |Header4  | Header5  
