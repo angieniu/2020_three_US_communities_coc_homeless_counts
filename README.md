@@ -12,7 +12,7 @@ The dataset is designed to help journalists collect evidence to do comparative n
 6.	The file naming convention is: year_datasettype. The year indicates the year in which the point-in-time count occurred. The dataset type indicates whether the dataset is the raw data ("raw") or the normalized data ("normal").
 
 ## Data Dictionary
-|Header1 |Header2  | Header3  |Header4  | Header5  
+|Variable |Variable Name  |Measurement Unit  |Allowed Values  |Definition  
 --- | --- | ---| --- | --- |
 |CoC Community Code|Coc_Report|String|CoC codes|The code number of the CoC community Field Office|
 |CoC Community Name|Community_Name|String|New York City, Los Angeles City and County, Seattle/King County|The names of the CoC communities|
