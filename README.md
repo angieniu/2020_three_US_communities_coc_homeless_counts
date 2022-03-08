@@ -14,11 +14,11 @@ The dataset is designed to help journalists collect evidence to do comparative n
 ## Data Dictionary
 |Header1 |Header2  | Header3  |Header4  | Header5  
 --- | --- | ---| --- | --- |
-|CoC Community Code|coc_report|String|CoC codes|The code number of the CoC community Field Office|
-|CoC Community Name|community_name|String|New York City, Los Angeles City and County, Seattle/King County|The names of the CoC communities|
-|Point-In-Time Counts Date|point_in_time_date|Date|MM/DD/YY|Date of the point-in-time homeless counts|
-|Total Point-In-Time Homeless Households Counts|total_homeless_households|Numerical|Number >= 0|The total count of point-in-time homeless households of the corresponding community|
-|Total Point-In-Time Homeless Persons Counts|total_homeless_persons|Numerical|Number >= 0|The total count of point-in-time homeless persons of the corresponding community|
-|Total Chronically Homeless Households Counts|total_chronical_homeless_households|Numerical|Number >= 0|The total count of the chronically homeless households of the corresponding community|
-|Total Chronically Homeless Persons Counts|total_chronical_homeless_persons|Numerical|Number >= 0|The total count of the chronically homeless persons of the corresponding community|
-|Total Population|population|Numerical|Number >= 0|The total count of population in the corresponding community|
+|CoC Community Code|Coc_Report|String|CoC codes|The code number of the CoC community Field Office|
+|CoC Community Name|Community_Name|String|New York City, Los Angeles City and County, Seattle/King County|The names of the CoC communities|
+|Point-In-Time Counts Date|Point_In_Time_Date|Date|MM/DD/YY|Date of the point-in-time homeless counts|
+|Total Point-In-Time Homeless Households Counts|Total_Homeless_Households|Numerical|Number >= 0|The total count of point-in-time homeless households of the corresponding community|
+|Total Point-In-Time Homeless Persons Counts|Total_Homeless_Persons|Numerical|Number >= 0|The total count of point-in-time homeless persons of the corresponding community|
+|Total Chronically Homeless Households Counts|Total_Chronical_Homeless_Households|Numerical|Number >= 0|The total count of the chronically homeless households of the corresponding community|
+|Total Chronically Homeless Persons Counts|Total_Chronical_Homeless_Persons|Numerical|Number >= 0|The total count of the chronically homeless persons of the corresponding community|
+|Total Population|Population|Numerical|Number >= 0|The total count of population in the corresponding community|
